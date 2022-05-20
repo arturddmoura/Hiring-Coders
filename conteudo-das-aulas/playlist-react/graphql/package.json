@@ -6,21 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "",
-  "license": "MIT",
-  "dependencies": {
-    "babel": "^6.23.0",
-    "babel-cli": "^6.26.0",
-    "dom": "^0.0.3",
-    "plugin-syntax-flow": "0.0.1-security",
-    "plugin-transform-react-jsx": "0.0.1-security"
-  },
-  "devDependencies": {
-    "@babel/core": ">=7.0.0-0 <8.0.0",
-    "@babel/plugin-syntax-flow": "^7.14.5",
-    "@babel/plugin-transform-react-jsx": "^7.14.9",
-    "@testing-library/dom": ">=7.21.4",
-    "typescript": ">=3.2.1 <4.0.0 || >=4.0.0 <5.0.0"
-  }
+  "license": "MIT"
 }
