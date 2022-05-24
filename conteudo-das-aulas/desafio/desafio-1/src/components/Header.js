@@ -7,7 +7,7 @@ function Header() {
         <>
             <Navbar bg="dark" variant="dark">
                 <Container>
-                    <img src={Img} width="7%" border="10px" />
+                    <img src={Img} width="7%" border="10px" alt="Logo" />
                     <Navbar.Brand href="#home">Loja de Jogos</Navbar.Brand>
                     <Nav className="me-auto">
                         <Nav.Link href="#playstation">Playstation</Nav.Link>
